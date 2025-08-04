@@ -1,5 +1,5 @@
 <!-- ![coding-mario](https://github.com/user-attachments/assets/328bc25e-e038-4635-aca0-cc48c5fa7afe) -->
-<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/328bc25e-e038-4635-aca0-cc48c5fa7afe)" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/328bc25e-e038-4635-aca0-cc48c5fa7afe" width="100" height="100">
 # 💫 About Me:
 Hey there! I'm Gopesh — a full-stack developer who loves turning ideas into interactive, scalable web apps.<br><br>By day, I’m wiring up APIs, architecting real-time systems, and building snappy interfaces. By night, I’m probably debugging something that worked five minutes ago.<br><br>I enjoy blending clean code with great UX, and I’m always chasing that perfect balance between functionality and polish. Lately, I’ve been diving deep into real-time tech, media servers, and building systems that feel... alive.<br><br>Curious mind. Problem solver. Bit of a perfectionist. Let’s build something cool! 🚀
 
