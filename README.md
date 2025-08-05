@@ -1,5 +1,5 @@
 <!-- ![coding-mario](https://github.com/user-attachments/assets/328bc25e-e038-4635-aca0-cc48c5fa7afe) -->
-<p align="center"><img style="display: block" src="https://github.com/user-attachments/assets/328bc25e-e038-4635-aca0-cc48c5fa7afe" width="50%" height="auto"></p>
+<p align="center"><img style="display: block" src="https://github.com/user-attachments/assets/328bc25e-e038-4635-aca0-cc48c5fa7afe" width="500"></p>
 <br/>
 
 ## 💫 About Me:
